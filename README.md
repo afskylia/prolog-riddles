@@ -1,5 +1,5 @@
 # prolog-riddles
-Solving life's greatest mysteries using Prolog. Examples being logic puzzles, zebra puzzles, and other logical riddles. Anyone interested in learning Prolog can feel free to contribute!
+Examples of how you can solve life's greatest mysteries in Prolog. Examples being logic puzzles, zebra puzzles, and other logical riddles. Anyone interested in learning Prolog can feel free to contribute!
 
 
 ## Useful links
